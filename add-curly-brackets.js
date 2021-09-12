@@ -46,3 +46,5 @@ console.log(fixCode('ABC'));
 console.log(fixCode('{ABC'));
 console.log(fixCode('{ABC;{de}FGH'));
 console.log(fixCode('{ABC;{deFGH'));
+
+//node add-curly-brackets
